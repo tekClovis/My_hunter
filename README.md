@@ -16,7 +16,6 @@
     * you can shoot in the head of the ducks to double the points you win and to regain life.
     * if you miss your shoot you get a life in less.
     * you need to reload after 3 shoot for that use the key 'R'.
-* 
 
 ## How To Use
 
