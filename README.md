@@ -7,8 +7,9 @@
     </h1>
 </span>
 
-<img src="img/preview.gif">
-
+<div align="center">
+    <img src="img/preview.gif">
+</div>
 ## Subject:
 
 * My_hunter is a video game of inspired of the duck hunt where: 
